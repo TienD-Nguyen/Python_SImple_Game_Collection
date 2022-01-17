@@ -1,1 +1,1 @@
-# Python_SImple_Game_Collection
+# Python_Simple_Game_Collection
